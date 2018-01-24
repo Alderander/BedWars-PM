@@ -1,7 +1,7 @@
 name: BedWars
 version: 2.3
 api: [2.0.0, 3.0.0, 3.0.0-ALPHA10]
-main: GPlug\Bedwars
+main: GPlug\BedWars
 author: 
  - Bluplayz
  - MrKiAN
